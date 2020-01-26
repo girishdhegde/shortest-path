@@ -16,5 +16,5 @@ clone this repository and execute the following commands:
                  
                  
 ## Screen-shots
-![Alt Text](https://raw.github.com/{girishdhegde}/{shortest-path}/{master}/{./screenShots/dijkstra1.png})
+![Alt Text]("https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png")
 
