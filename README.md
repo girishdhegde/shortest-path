@@ -16,5 +16,5 @@ clone this repository and execute the following commands:
                  
                  
 ## Screen-shots
-![image](https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png){:height="50%" width="50%"}
+![image](https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png=250X250)
 
