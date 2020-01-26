@@ -1,7 +1,7 @@
 import numpy as np 
 import cv2
-import A_star_graphics as ag
-import dijkstra_graphics as dg
+import Astar as ag
+import dijkstra as dg
 
 
 def main():
