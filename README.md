@@ -14,4 +14,7 @@ clone this repository and execute the following commands:
    ####        2.comparision between dijkstra ans Astar
           python astar_vs_dijkstra.py
                  
+                 
+## Screen-shots
+![Alt Text](https://raw.github.com/{girishdhegde}/{shortest-path}/{master}/{./screenShots/dijkstra1.png})
 
