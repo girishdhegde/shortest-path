@@ -16,5 +16,6 @@ clone this repository and execute the following commands:
                  
                  
 ## Screen-shots
+<img src="https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png" width="400">
 ![image](https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png =250X250)
 
