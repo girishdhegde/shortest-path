@@ -17,7 +17,8 @@ clone this repository and execute the following commands:
                  
 ## Screen-shots
 <img src="./screenShots/dijkstra1.png" width="400"/> <img src="./screenShots/astar2.png" width="400"/>
-<img src="./screenShots/astardijkstra.png" width="1000">
+####Astar vs dijkstra
+<img src="./screenShots/astardijkstra.png" width="800">
 
 
 
