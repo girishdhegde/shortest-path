@@ -11,10 +11,10 @@ clone this repository and execute the following commands:
    ####        2.Astar algorithm
           python Astar.py
                  
-   ####        2.comparision between dijkstra ans Astar
+   ####        2.comparision between dijkstra and Astar
           python astar_vs_dijkstra.py
                  
                  
 ## Screen-shots
-![image](https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png)
+![image](https://github.com/girishdhegde/shortest-path/blob/master/screenShots/astar1.png | width=400)
 
