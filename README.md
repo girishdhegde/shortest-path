@@ -5,7 +5,7 @@ Implementation of algorithms for finding the shortest paths between nodes in a g
 clone this repository and execute the following commands:
    ### to install requirements:
           pip install -r requirements.txt 
-   ### to try the codes:
+## Usage
    ####        1.Dijkstra algorithm
           python dijkstra.py
    ####        2.Astar algorithm
